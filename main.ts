@@ -1,14 +1,4 @@
-import express from "express";
-import { port } from "./server-config.json";
+import { App } from "./app/App";
 
-const app = express();
+App.run();
 
-app.get( "/", ( request, response)=>{
-    response.send(
-        "Express Server"
-    );
-});
-
-app.listen( port, ()=>{
-    console.log(`Server running on port ${port}`);
-});
