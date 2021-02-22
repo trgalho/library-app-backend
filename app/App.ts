@@ -1,5 +1,7 @@
 import express from "express";
 import http from "http";
+import { loadControllers } from "../controllers";
+import { BookController } from "../controllers/BookControllers";
 import { Database } from "../database";
 import { port } from "../express-config.json";
 import { PromiseResolver } from "../libs/PromiseResolver";
@@ -15,28 +17,10 @@ class AppClass {
         this.server = null;
 
         this.config();
-        this.createRoutes();
     }
 
-    private config() {
-        //
-    }
-
-    private createRoutes()
-    {
-        this.express.get( "/", ( request, response)=>{
-            response.send(
-                "Express Server"
-            );
-        });
-        
-        this.express.get( "/books/", async ( request, response )=>{
-            //await Database.sequelize.sync();
-            const books = await Database.Book.findAll();
-            console.log( books );
-        
-            response.send(books);
-        });
+    private config() {        
+        loadControllers( this.express );
     }
     
     private async listen() : Promise<void> {
