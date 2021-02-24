@@ -1,4 +1,5 @@
 import express from "express";
+import { BASE_API_SCHEMA } from "../express-config";
 import { BaseController } from "./BaseController";
 import { BookController } from "./BookControllers";
 
@@ -13,5 +14,5 @@ for( const controller of controllers ){
 }
 
 export function loadControllers( app : express.Router ){
-    app.use("/api/v1/", apiV1Router);
+    app.use(BASE_API_SCHEMA, apiV1Router);
 }

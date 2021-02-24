@@ -1,9 +1,7 @@
 import express from "express";
 import http from "http";
 import { loadControllers } from "../controllers";
-import { BookController } from "../controllers/BookControllers";
-import { Database } from "../database";
-import { port } from "../express-config.json";
+import { PORT, ORIGIN } from "../express-config";
 import { PromiseResolver } from "../libs/PromiseResolver";
 import { Nullable } from "../libs/Types";
 import cors from 'cors';
@@ -12,7 +10,7 @@ class AppClass {
     private express : express.Application;
 
     private server : Nullable<http.Server>;
-    
+
     private cors : express.RequestHandler;
     
     constructor(){
@@ -24,7 +22,7 @@ class AppClass {
         this.config();
     }
 
-    private config() {        
+    private config() {
         this.express.use( this.cors );
         loadControllers( this.express );
     }
@@ -32,8 +30,10 @@ class AppClass {
     private async listen() : Promise<void> {
         const promiseResolver = new PromiseResolver<void>();
 
-        this.server = this.express.listen( port, ()=>{
-            console.log(`Server running on port ${port}`);
+        console.log(`Starting server on port ${PORT}`);
+
+        this.server = this.express.listen( PORT, ()=>{
+            console.log(`Server running on port ${PORT}`);
 
             promiseResolver.resolve();
         });
