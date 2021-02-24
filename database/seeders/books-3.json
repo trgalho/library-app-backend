@@ -1,0 +1,477 @@
+[{
+        "title": "Practical MongoDB",
+        "subtitle": "Architecting, Developing, and Administering MongoDB",
+        "isbn": "9781484206485",
+        "price": "9.05",
+        "image": "https://itbook.store/img/books/9781484206485.png",
+        "url": "https://itbook.store/books/9781484206485"
+    }, {
+        "title": "The Definitive Guide to MongoDB, 3rd Edition",
+        "subtitle": "A complete guide to dealing with Big Data using MongoDB",
+        "isbn": "9781484211830",
+        "price": "49.99",
+        "image": "https://itbook.store/img/books/9781484211830.png",
+        "url": "https://itbook.store/books/9781484211830"
+    }, {
+        "title": "MongoDB in Action, 2nd Edition",
+        "subtitle": "Covers MongoDB version 3.0",
+        "isbn": "9781617291609",
+        "price": "19.99",
+        "image": "https://itbook.store/img/books/9781617291609.png",
+        "url": "https://itbook.store/books/9781617291609"
+    }, {
+        "title": "Pentaho Analytics for MongoDB",
+        "subtitle": "Combine Pentaho Analytics and MongoDB to create powerful analysis and reporting solutions",
+        "isbn": "9781782168355",
+        "price": "16.99",
+        "image": "https://itbook.store/img/books/9781782168355.png",
+        "url": "https://itbook.store/books/9781782168355"
+    }, {
+        "title": "Pentaho Analytics for MongoDB Cookbook",
+        "subtitle": "Over 50 recipes to learn how to use Pentaho Analytics and MongoDB to create powerful analysis and reporting solutions",
+        "isbn": "9781783553273",
+        "price": "35.99",
+        "image": "https://itbook.store/img/books/9781783553273.png",
+        "url": "https://itbook.store/books/9781783553273"
+    }, {
+        "title": "Web Development with MongoDB and NodeJS, 2nd Edition",
+        "subtitle": "Build an interactive and full-featured web application from scratch using Node.js and MongoDB",
+        "isbn": "9781785287527",
+        "price": "38.01",
+        "image": "https://itbook.store/img/books/9781785287527.png",
+        "url": "https://itbook.store/books/9781785287527"
+    }, {
+        "title": "MongoDB Cookbook, 2nd Edition",
+        "subtitle": "Harness the latest features of MongoDB 3 with this collection of 80 recipes - from managing cloud platforms to app development, this book is a vital resource",
+        "isbn": "9781785289989",
+        "price": "44.99",
+        "image": "https://itbook.store/img/books/9781785289989.png",
+        "url": "https://itbook.store/books/9781785289989"
+    }, {
+        "title": "The Little MongoDB Book",
+        "subtitle": "",
+        "isbn": "1001592208320",
+        "price": "0.00",
+        "image": "https://itbook.store/img/books/1001592208320.png",
+        "url": "https://itbook.store/books/1001592208320"
+    }, {
+        "title": "Node.js, MongoDB and Angular Web Development, 2nd Edition",
+        "subtitle": "The definitive guide to using the MEAN stack to build web applications",
+        "isbn": "9780134655536",
+        "price": "33.16",
+        "image": "https://itbook.store/img/books/9780134655536.png",
+        "url": "https://itbook.store/books/9780134655536"
+    }, {
+        "title": "The Definitive Guide to MongoDB",
+        "subtitle": "The NoSQL Database for Cloud and Desktop Computing",
+        "isbn": "9781430230519",
+        "price": "8.83",
+        "image": "https://itbook.store/img/books/9781430230519.png",
+        "url": "https://itbook.store/books/9781430230519"
+    },
+    {
+        "title": "Pro Hibernate and MongoDB",
+        "subtitle": "",
+        "isbn": "9781430257943",
+        "price": "47.27",
+        "image": "https://itbook.store/img/books/9781430257943.png",
+        "url": "https://itbook.store/books/9781430257943"
+    }, {
+        "title": "Scaling MongoDB",
+        "subtitle": "Sharding, Cluster Setup, and Administration",
+        "isbn": "9781449303211",
+        "price": "16.99",
+        "image": "https://itbook.store/img/books/9781449303211.png",
+        "url": "https://itbook.store/books/9781449303211"
+    }, {
+        "title": "50 Tips and Tricks for MongoDB Developers",
+        "subtitle": "Get the Most Out of Your Database",
+        "isbn": "9781449304614",
+        "price": "7.00",
+        "image": "https://itbook.store/img/books/9781449304614.png",
+        "url": "https://itbook.store/books/9781449304614"
+    }, {
+        "title": "MongoDB and Python",
+        "subtitle": "Patterns and processes for the popular document-oriented database",
+        "isbn": "9781449310370",
+        "price": "6.88",
+        "image": "https://itbook.store/img/books/9781449310370.png",
+        "url": "https://itbook.store/books/9781449310370"
+    }, {
+        "title": "MongoDB and PHP",
+        "subtitle": "Document-Oriented Data for Web Developers",
+        "isbn": "9781449314361",
+        "price": "14.99",
+        "image": "https://itbook.store/img/books/9781449314361.png",
+        "url": "https://itbook.store/books/9781449314361"
+    }, {
+        "title": "Building Node Applications with MongoDB and Backbone",
+        "subtitle": "Rapid Prototyping and Scalable Deployment",
+        "isbn": "9781449337391",
+        "price": "4.85",
+        "image": "https://itbook.store/img/books/9781449337391.png",
+        "url": "https://itbook.store/books/9781449337391"
+    }, {
+        "title": "MongoDB Applied Design Patterns",
+        "subtitle": "Practical Use Cases with the Leading NoSQL Database",
+        "isbn": "9781449340049",
+        "price": "29.99",
+        "image": "https://itbook.store/img/books/9781449340049.png",
+        "url": "https://itbook.store/books/9781449340049"
+    }, {
+        "title": "MongoDB: The Definitive Guide, 2nd Edition",
+        "subtitle": "Powerful and Scalable Data Storage",
+        "isbn": "9781449344689",
+        "price": "17.95",
+        "image": "https://itbook.store/img/books/9781449344689.png",
+        "url": "https://itbook.store/books/9781449344689"
+    }, {
+        "title": "MongoDB: The Definitive Guide",
+        "subtitle": "Powerful and Scalable Data Storage",
+        "isbn": "9781449381561",
+        "price": "4.85",
+        "image": "https://itbook.store/img/books/9781449381561.png",
+        "url": "https://itbook.store/books/9781449381561"
+    }, {
+        "title": "MongoDB Basics",
+        "subtitle": "",
+        "isbn": "9781484208960",
+        "price": "24.99",
+        "image": "https://itbook.store/img/books/9781484208960.png",
+        "url": "https://itbook.store/books/9781484208960"
+    },
+    {
+        "title": "Full Stack JavaScript",
+        "subtitle": "Learn Backbone.js, Node.js and MongoDB",
+        "isbn": "9781484217504",
+        "price": "39.99",
+        "image": "https://itbook.store/img/books/9781484217504.png",
+        "url": "https://itbook.store/books/9781484217504"
+    }, {
+        "title": "Data Science Fundamentals for Python and MongoDB",
+        "subtitle": "",
+        "isbn": "9781484235966",
+        "price": "18.32",
+        "image": "https://itbook.store/img/books/9781484235966.png",
+        "url": "https://itbook.store/books/9781484235966"
+    }, {
+        "title": "Full Stack JavaScript, 2nd Edition",
+        "subtitle": "Learn Backbone.js, Node.js, and MongoDB",
+        "isbn": "9781484237175",
+        "price": "37.99",
+        "image": "https://itbook.store/img/books/9781484237175.png",
+        "url": "https://itbook.store/books/9781484237175"
+    }, {
+        "title": "MongoDB Recipes",
+        "subtitle": "With Data Modeling and Query Building Strategies",
+        "isbn": "9781484248904",
+        "price": "19.19",
+        "image": "https://itbook.store/img/books/9781484248904.png",
+        "url": "https://itbook.store/books/9781484248904"
+    }, {
+        "title": "MongoDB: The Definitive Guide, 3rd Edition",
+        "subtitle": "Powerful and Scalable Data Storage",
+        "isbn": "9781491954461",
+        "price": "29.11",
+        "image": "https://itbook.store/img/books/9781491954461.png",
+        "url": "https://itbook.store/books/9781491954461"
+    }, {
+        "title": "Mongoose for Application Development",
+        "subtitle": "Learn to speed up your application development by using Mongoose to harness the power of Node.js and MongoDB",
+        "isbn": "9781782168195",
+        "price": "23.99",
+        "image": "https://itbook.store/img/books/9781782168195.png",
+        "url": "https://itbook.store/books/9781782168195"
+    }, {
+        "title": "Learning Single-page Web Application Development",
+        "subtitle": "Build powerful and scalable single-page web applications using a full stack JavaScript environment with Node.js, MongoDB, AngularJS, and the Express framework",
+        "isbn": "9781783552092",
+        "price": "26.99",
+        "image": "https://itbook.store/img/books/9781783552092.png",
+        "url": "https://itbook.store/books/9781783552092"
+    }, {
+        "title": "MEAN Web Development",
+        "subtitle": "Master real-time MEAN web application development and learn how to construct a MEAN application using a combination of MongoDB, Express, AngularJS, and Node.js",
+        "isbn": "9781783983285",
+        "price": "39.49",
+        "image": "https://itbook.store/img/books/9781783983285.png",
+        "url": "https://itbook.store/books/9781783983285"
+    }, {
+        "title": "MongoDB for Java Developers",
+        "subtitle": "Design, build, and deliver efficient Java applications using the most advanced NoSQL database",
+        "isbn": "9781785280276",
+        "price": "27.99",
+        "image": "https://itbook.store/img/books/9781785280276.png",
+        "url": "https://itbook.store/books/9781785280276"
+    }, {
+        "title": "RESTful Web API Design with Node.js 10, 3rd Edition",
+        "subtitle": "Learn to create robust RESTful web services with Node.js, MongoDB, and Express.js",
+        "isbn": "9781788623322",
+        "price": "29.99",
+        "image": "https://itbook.store/img/books/9781788623322.png",
+        "url": "https://itbook.store/books/9781788623322"
+    },
+    {
+        "title": "Full-Stack Web Development with Vue.js and Node",
+        "subtitle": "Build scalable and powerful web apps with modern web stack: MongoDB, Vue, Node.js, and Express",
+        "isbn": "9781788831147",
+        "price": "35.99",
+        "image": "https://itbook.store/img/books/9781788831147.png",
+        "url": "https://itbook.store/books/9781788831147"
+    }, {
+        "title": "Full-Stack React Projects",
+        "subtitle": "Modern web development using React 16, Node, Express, and MongoDB",
+        "isbn": "9781788835534",
+        "price": "44.99",
+        "image": "https://itbook.store/img/books/9781788835534.png",
+        "url": "https://itbook.store/books/9781788835534"
+    }, {
+        "title": "MongoDB 4 Quick Start Guide",
+        "subtitle": "Learn the skills you need to work with the world's most popular NoSQL database",
+        "isbn": "9781789343533",
+        "price": "29.99",
+        "image": "https://itbook.store/img/books/9781789343533.png",
+        "url": "https://itbook.store/books/9781789343533"
+    }, {
+        "title": "Full-Stack React Projects, 2nd Edition",
+        "subtitle": "Learn MERN stack development by building modern web apps using MongoDB, Express, React, and Node.js",
+        "isbn": "9781839215414",
+        "price": "32.95",
+        "image": "https://itbook.store/img/books/9781839215414.png",
+        "url": "https://itbook.store/books/9781839215414"
+    }, {
+        "title": "PHP and MongoDB Web Development",
+        "subtitle": "Beginner's Guide",
+        "isbn": "9781849513623",
+        "price": "26.99",
+        "image": "https://itbook.store/img/books/9781849513623.png",
+        "url": "https://itbook.store/books/9781849513623"
+    }, {
+        "title": "Ruby and MongoDB Web Development",
+        "subtitle": "",
+        "isbn": "9781849515023",
+        "price": "26.99",
+        "image": "https://itbook.store/img/books/9781849515023.png",
+        "url": "https://itbook.store/books/9781849515023"
+    }, {
+        "title": "MongoDB in Action",
+        "subtitle": "",
+        "isbn": "9781935182870",
+        "price": "3.73",
+        "image": "https://itbook.store/img/books/9781935182870.png",
+        "url": "https://itbook.store/books/9781935182870"
+    }, {
+        "title": "Jump Start Node.js",
+        "subtitle": "",
+        "isbn": "9780987332103",
+        "price": "19.00",
+        "image": "https://itbook.store/img/books/9780987332103.png",
+        "url": "https://itbook.store/books/9780987332103"
+    }, {
+        "title": "Resilience and Reliability on AWS",
+        "subtitle": "Engineering at Cloud Scale",
+        "isbn": "9781449339197",
+        "price": "3.49",
+        "image": "https://itbook.store/img/books/9781449339197.png",
+        "url": "https://itbook.store/books/9781449339197"
+    }, {
+        "title": "JSON at Work",
+        "subtitle": "Practical Data Integration for the Web",
+        "isbn": "9781449358327",
+        "price": "40.49",
+        "image": "https://itbook.store/img/books/9781449358327.png",
+        "url": "https://itbook.store/books/9781449358327"
+    },
+    {
+        "title": "Web Development with Go",
+        "subtitle": "Building Scalable Web Apps and RESTful Services",
+        "isbn": "9781484210536",
+        "price": "29.18",
+        "image": "https://itbook.store/img/books/9781484210536.png",
+        "url": "https://itbook.store/books/9781484210536"
+    }, {
+        "title": "OpenStack Trove",
+        "subtitle": "",
+        "isbn": "9781484212226",
+        "price": "38.46",
+        "image": "https://itbook.store/img/books/9781484212226.png",
+        "url": "https://itbook.store/books/9781484212226"
+    }, {
+        "title": "Pro Couchbase Development",
+        "subtitle": "A NoSQL Platform for the Enterprise",
+        "isbn": "9781484214350",
+        "price": "38.06",
+        "image": "https://itbook.store/img/books/9781484214350.png",
+        "url": "https://itbook.store/books/9781484214350"
+    }, {
+        "title": "Pro Docker",
+        "subtitle": "Learn how to use Containers as a Service for development and deployment",
+        "isbn": "9781484218297",
+        "price": "42.83",
+        "image": "https://itbook.store/img/books/9781484218297.png",
+        "url": "https://itbook.store/books/9781484218297"
+    }, {
+        "title": "Practical Node.js, 2nd Edition",
+        "subtitle": "Building Real-World Scalable Web Apps",
+        "isbn": "9781484230381",
+        "price": "24.14",
+        "image": "https://itbook.store/img/books/9781484230381.png",
+        "url": "https://itbook.store/books/9781484230381"
+    }, {
+        "title": "Microsoft Azure Cosmos DB Revealed",
+        "subtitle": "A Multi-Modal Database Designed for the Cloud",
+        "isbn": "9781484233504",
+        "price": "15.50",
+        "image": "https://itbook.store/img/books/9781484233504.png",
+        "url": "https://itbook.store/books/9781484233504"
+    }, {
+        "title": "Advanced Data Analytics Using Python",
+        "subtitle": "With Machine Learning, Deep Learning and NLP Examples",
+        "isbn": "9781484234495",
+        "price": "29.01",
+        "image": "https://itbook.store/img/books/9781484234495.png",
+        "url": "https://itbook.store/books/9781484234495"
+    }, {
+        "title": "Pro MERN Stack, 2nd Edition",
+        "subtitle": "Full Stack Web App Development with Mongo, Express, React, and Node",
+        "isbn": "9781484243909",
+        "price": "31.29",
+        "image": "https://itbook.store/img/books/9781484243909.png",
+        "url": "https://itbook.store/books/9781484243909"
+    }, {
+        "title": "Beginning Database Programming Using ASP.NET Core 3",
+        "subtitle": "With MVC, Razor Pages, Web API, jQuery, Angular, SQL Server, and NoSQL",
+        "isbn": "9781484255087",
+        "price": "26.90",
+        "image": "https://itbook.store/img/books/9781484255087.png",
+        "url": "https://itbook.store/books/9781484255087"
+    }, {
+        "title": "Agile Data Science 2.0",
+        "subtitle": "Building Full-Stack Data Analytics Applications with Spark",
+        "isbn": "9781491960110",
+        "price": "28.00",
+        "image": "https://itbook.store/img/books/9781491960110.png",
+        "url": "https://itbook.store/books/9781491960110"
+    },
+    {
+        "title": "Learning Apache Drill",
+        "subtitle": "Query and Analyze Structured Data",
+        "isbn": "9781492032793",
+        "price": "42.26",
+        "image": "https://itbook.store/img/books/9781492032793.png",
+        "url": "https://itbook.store/books/9781492032793"
+    }, {
+        "title": "Web Development with Node and Express, 2nd Edition",
+        "subtitle": "Leveraging the JavaScript Stack",
+        "isbn": "9781492053514",
+        "price": "33.06",
+        "image": "https://itbook.store/img/books/9781492053514.png",
+        "url": "https://itbook.store/books/9781492053514"
+    }, {
+        "title": "Programming PHP, 4th Edition",
+        "subtitle": "Creating Dynamic Web Pages",
+        "isbn": "9781492054139",
+        "price": "31.49",
+        "image": "https://itbook.store/img/books/9781492054139.png",
+        "url": "https://itbook.store/books/9781492054139"
+    }, {
+        "title": "Getting MEAN with Mongo, Express, Angular, and Node",
+        "subtitle": "",
+        "isbn": "9781617292033",
+        "price": "29.00",
+        "image": "https://itbook.store/img/books/9781617292033.png",
+        "url": "https://itbook.store/books/9781617292033"
+    }, {
+        "title": "Getting MEAN with Mongo, Express, Angular, and Node, 2nd Edition",
+        "subtitle": "",
+        "isbn": "9781617294754",
+        "price": "30.76",
+        "image": "https://itbook.store/img/books/9781617294754.png",
+        "url": "https://itbook.store/books/9781617294754"
+    }, {
+        "title": "Test-Driving JavaScript Applications",
+        "subtitle": "Rapid, Confident, Maintainable Code",
+        "isbn": "9781680501742",
+        "price": "31.74",
+        "image": "https://itbook.store/img/books/9781680501742.png",
+        "url": "https://itbook.store/books/9781680501742"
+    }, {
+        "title": "Seven Databases in Seven Weeks, 2nd Edition",
+        "subtitle": "A Guide to Modern Databases and the NoSQL Movement",
+        "isbn": "9781680502534",
+        "price": "25.00",
+        "image": "https://itbook.store/img/books/9781680502534.png",
+        "url": "https://itbook.store/books/9781680502534"
+    }, {
+        "title": "Opa Application Development",
+        "subtitle": "A rapid and secure web development framework to develop web applications quickly and easily in Opa",
+        "isbn": "9781782163749",
+        "price": "14.99",
+        "image": "https://itbook.store/img/books/9781782163749.png",
+        "url": "https://itbook.store/books/9781782163749"
+    }, {
+        "title": "Learning NServiceBus Sagas",
+        "subtitle": "Discover how to design, build, and test sagas and messaging with NServiceBus",
+        "isbn": "9781782173496",
+        "price": "17.99",
+        "image": "https://itbook.store/img/books/9781782173496.png",
+        "url": "https://itbook.store/books/9781782173496"
+    }, {
+        "title": "Practical Data Analysis",
+        "subtitle": "Transform, model, and visualize your data through hands-on projects, developed in open source tools",
+        "isbn": "9781783280995",
+        "price": "29.99",
+        "image": "https://itbook.store/img/books/9781783280995.png",
+        "url": "https://itbook.store/books/9781783280995"
+    },
+    {
+        "title": "Spark for Python Developers",
+        "subtitle": "A concise guide to implementing Spark Big Data analytics for Python developers, and building a real-time and insightful trend tracker data intensive app",
+        "isbn": "9781784399696",
+        "price": "31.99",
+        "image": "https://itbook.store/img/books/9781784399696.png",
+        "url": "https://itbook.store/books/9781784399696"
+    }, {
+        "title": "Learning Node.js for Mobile Application Development",
+        "subtitle": "Make use of Node.js to learn the development of a simple yet scalable cross-platform mobile application",
+        "isbn": "9781785280498",
+        "price": "35.99",
+        "image": "https://itbook.store/img/books/9781785280498.png",
+        "url": "https://itbook.store/books/9781785280498"
+    }, {
+        "title": "Getting Started with Meteor.js JavaScript Framework, 2nd Edition",
+        "subtitle": "Learn to develop powerful web applications in minutes with Meteor",
+        "isbn": "9781785285547",
+        "price": "21.99",
+        "image": "https://itbook.store/img/books/9781785285547.png",
+        "url": "https://itbook.store/books/9781785285547"
+    }, {
+        "title": "JavaScript JSON Cookbook",
+        "subtitle": "Over 80 recipes to make the most of JSON in your desktop, server, web, and mobile applications",
+        "isbn": "9781785286902",
+        "price": "35.99",
+        "image": "https://itbook.store/img/books/9781785286902.png",
+        "url": "https://itbook.store/books/9781785286902"
+    }, {
+        "title": "Flask By Example",
+        "subtitle": "Unleash the full potential of the Flask web framework by creating simple yet powerful web applications",
+        "isbn": "9781785286933",
+        "price": "27.99",
+        "image": "https://itbook.store/img/books/9781785286933.png",
+        "url": "https://itbook.store/books/9781785286933"
+    }, {
+        "title": "Node.js Complete Reference Guide",
+        "subtitle": "Discover a more sustainable way of writing software with high levels of reusability and collaboration using Node.js",
+        "isbn": "9781789952117",
+        "price": "49.99",
+        "image": "https://itbook.store/img/books/9781789952117.png",
+        "url": "https://itbook.store/books/9781789952117"
+    }, {
+        "title": "Seven Databases in Seven Weeks",
+        "subtitle": "A Guide to Modern Databases and the NoSQL Movement",
+        "isbn": "9781934356920",
+        "price": "12.59",
+        "image": "https://itbook.store/img/books/9781934356920.png",
+        "url": "https://itbook.store/books/9781934356920"
+    }
+]
