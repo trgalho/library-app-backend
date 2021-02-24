@@ -6,20 +6,26 @@ import { Database } from "../database";
 import { port } from "../express-config.json";
 import { PromiseResolver } from "../libs/PromiseResolver";
 import { Nullable } from "../libs/Types";
+import cors from 'cors';
 
 class AppClass {
     private express : express.Application;
 
     private server : Nullable<http.Server>;
     
+    private cors : express.RequestHandler;
+    
     constructor(){
         this.express = express();
         this.server = null;
+
+        this.cors = cors( { origin: ORIGIN });
 
         this.config();
     }
 
     private config() {        
+        this.express.use( this.cors );
         loadControllers( this.express );
     }
     
